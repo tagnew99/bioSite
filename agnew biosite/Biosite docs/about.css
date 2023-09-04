@@ -1,0 +1,36 @@
+.banner {
+    background-color: navy;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1 {
+    font-size: 65px;
+    color: gold;
+    text-align: left;
+}
+
+.banner img {
+    max-width: 25%;
+    height: auto;
+}
+
+body {
+    background-color: orange;
+}
+
+.hobbypics img {
+    width: 500px; /* Adjust the width to your desired size */
+    height: 500px; /* Adjust the height to your desired size */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h2, {
+    text-align: center;
+    font-size: 30;
+    color: navy;
+}

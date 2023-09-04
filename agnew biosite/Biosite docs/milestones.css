@@ -1,0 +1,22 @@
+.banner {
+    background-color: navy;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1 {
+    font-size: 65px;
+    color: gold;
+    text-align: left;
+}
+
+.banner img {
+    max-width: 25%;
+    height: auto;
+}
+
+body {
+    background-color: orange;
+}
