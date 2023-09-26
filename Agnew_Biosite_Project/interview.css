@@ -1,0 +1,73 @@
+.banner {
+    background-color: navy;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1 {
+    font-size: 65px;
+    color: gold;
+    text-align: left;
+}
+
+.banner img {
+    max-width: 25%;
+    height: auto;
+}
+
+body {
+    background-color: orange;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px; 
+}
+
+.left img {
+    max-width: 100%; 
+    height: auto;
+}
+
+.right p {
+    text-align: center;
+    font-size: 35px; 
+    color: navy; 
+}
+
+footer {
+    background-color: navy;
+    color: gold;
+    text-align: center;
+    padding: 10px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    font-size: 16px;
+    margin: 0;
+}
+
+.footer-text {
+    background-color: navy;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: auto; 
+}
+
+
+.footer-text a {
+    color: gold;
+    text-decoration: none;
+}
+
+.footer-text a:hover {
+    text-decoration: underline;
+}
+
